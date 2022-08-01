@@ -1,11 +1,12 @@
-<img src="./banner.gif" alt="Ivan Ramos banner">
+<img src="./banner.gif" alt="Ivan Ramos banner" width="100%" height="400px">
 
-## I'm an Aspiring Mobile Engineer!!
+# Android Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="26px" />
+          
 
 - 🌱 I’m currently learning Android Development 🟢
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking for mentor who can teach me mobile dev
 - 🥅 2022 Goals: Learn more on Mobile Development
-- ⚡ Fun fact: I did fullstack web dev in the past
+- ⚡ Fun fact: I can also do full-stack web dev
 
 ### Languages and Tools:
 
