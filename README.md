@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan Ramos 👋 
+<img src="./banner.gif" alt="Ivan Ramos banner">
 
 ## I'm an Aspiring Mobile Engineer!!
 
