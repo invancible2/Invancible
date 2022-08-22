@@ -1,62 +1,36 @@
-<h1 align="center">Hello World , I'm Ivan Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World 👋, I'm Ivan Ramos</h1>
+<h3 align="center">A passionate mobile app developer from Philippines.</h3>
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=invancible&label=Profile%20views&color=0e75b6&style=flat" alt="invancible" /> </p>
 
-## :sassy_man:  About me
-- :school: I am a `BS Computer Science` student at Naga College Foundation, Inc.
-- :student: I’m currently learning: `Android Development`.
-- :nerd_face: Always `learning new things`
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=invancible" alt="invancible" /></a> </p>
 
-## 🛠️ My Skills
+- 🔭 I’m currently working on [Trivia App](https://github.com/invancible/trivia-quiz-app)
 
-### 👉 Programming Languages
+- 🌱 I’m currently learning **DSA with Kotlin**
 
-<p align="left"> 
-  &emsp; 
-  <img alt="Kotlin" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  &emsp;
-  <img alt="Python" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &emsp;
-  <img alt="PHP" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  &emsp;
-  <img alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &emsp;
+- 👯 I’m looking to collaborate on **Mobile Development**
+
+- 🤝 I’m looking for help with **Mastering Kotlin**
+
+- 👨‍💻 All of my projects are available at [https://github.com/invancible](https://github.com/invancible)
+
+- 💬 Ask me about **web and mobile development guide**
+
+- 📫 How to reach me **ivanramos.se@gmail.com**
+
+- ⚡ Fun fact **I love sharing my knowledge and experiences**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/invancible.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="invancible.dev" height="30" width="40" /></a>
 </p>
 
-### 👉 Frontend Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p align="left"> 
-  &emsp; 
-  <img alt="HTML" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &emsp;
-  <img alt="CSS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &emsp;
-  <img alt="Tailwind" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  &emsp;
-  <img alt="Bootstrap" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  &emsp;
-  <img alt="jQuery" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  &emsp;
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=invancible&show_icons=true&locale=en&layout=compact" alt="invancible" /></p>
 
-### 👉 Backend Development
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=invancible&show_icons=true&locale=en" alt="invancible" /></p>
 
-<p align="left"> 
-  &emsp; 
-  <img alt="Laravel" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  &emsp; 
-  <img alt="Django" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  &emsp;
-</p>
-
-### 👉 IDE's
-
-<p align="left"> 
-  &emsp; 
-  <img alt="Android Studio" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  &emsp;
-  <img alt="VS Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  &emsp;
-  <img alt="JetBrains" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-  &emsp;
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=invancible&" alt="invancible" /></p>
