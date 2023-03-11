@@ -1,27 +1,67 @@
-<h1 align="center">Hello World 👋, I'm Ivan Ramos</h1>
-<h3 align="center">An aspiring software engineer who is fond of Stoicism and committed to lifelong learning.</h3>
+<div id="header" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=invancible&label=Profile%20views&color=0e75b6&style=flat" alt="invancible" /> </p>
+  <img src="./miyamoto.png" width="100"/>
 
-- 🔭 I’m currently working on [Codemy: Gamification of Learning Programming](https://github.com/invancible/code-academy)
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ivan-ramos-a30491248/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.facebook.com/Invancible.dev/">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
 
-- 💬 Ask me about **Software Engineering**
+  <img src="https://komarev.com/ghpvc/?username=invancible&style=flat-square&color=blue" alt=""/>
 
-- 📫 How to reach me **ivanramos.se@gmail.com**
+  <!-- <h1>
+    Hello World
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_invancible" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_invancible" height="30" width="40" /></a>
-<a href="https://fb.com/invancible.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="invancible.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/_invancible" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_invancible" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user2610l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2610l" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=invancible&show_icons=true&locale=en&layout=compact" alt="invancible" /></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=invancible&show_icons=true&locale=en" alt="invancible" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=invancible&" alt="invancible" /></p>
+---
+
+### :technologist: About Me :
+I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is fond of Stoicism and committed to lifelong learning.
+
+- :telescope: I’m currently a Computer Science junior at Naga College Foundation, Inc.
+
+- :seedling: Exploring Django and other python frameworks
+
+- :zap: Mastering the way of programming
+
+- :mailbox:How to reach me: __ivanramos.se@gmail.com__
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  &nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invancible&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
