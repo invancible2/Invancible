@@ -35,7 +35,7 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
 
 - :telescope: I’m currently a Computer Science junior at Naga College Foundation, Inc.
 
-- :seedling: Exploring Django and other python frameworks
+- :seedling: Exploring Java and Django Framework
 
 - :zap: Mastering the way of programming
 
